@@ -1,4 +1,6 @@
-# Reproduce Internal inconsistency
+# Reproduce Internal (In)consistency
+
+Background: https://www.scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/
 
 1. Generate test data:
 
